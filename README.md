@@ -1,6 +1,6 @@
-# Credit-Card-detection
+# Credit-Card-Fraud-Detection
 
-Credit Card detection is an important problem in the finance industry. Here's a general outline of a possible project for building a Credit Card detection system:
+Credit card fraud detection is an important problem in the finance industry. Here's a general outline of a possible project for building a Credit card fraud detection system:
 
 Data collection: data used here is from kaggle
 
@@ -8,7 +8,7 @@ Data preprocessing: Clean and preprocess the collected data and normalizing the 
 
 Feature engineering: Extract relevant features from the preprocessed data, such as transaction amount, merchant type, transaction location, and time of day.
 
-Model selection: Choose appropriate machine learning models for credit card fraud detection,we have used
+Model selection: Choose appropriate machine learning models for Credit card fraud fraud detection,we have used
 1. logistic regression
 2. decision trees
 3. random forests
