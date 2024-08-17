@@ -1,6 +1,6 @@
-# UPI-fraud-detection
+# Credit-Card-detection
 
-UPI fraud detection is an important problem in the finance industry. Here's a general outline of a possible project for building a UPI fraud detection system:
+Credit Card detection is an important problem in the finance industry. Here's a general outline of a possible project for building a Credit Card detection system:
 
 Data collection: data used here is from kaggle
 
